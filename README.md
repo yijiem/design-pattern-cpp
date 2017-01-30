@@ -9,8 +9,8 @@ singleton
 factory method
 
 API wrapping patterns
-    * proxy pattern
-    * adapter pattern
-    * facade pattern
+    * [proxy pattern]
+    * [adapter pattern]
+    * [facade pattern]
 
 * [observer pattern](https://github.com/yijiem/design-pattern-cpp/tree/master/observer)
