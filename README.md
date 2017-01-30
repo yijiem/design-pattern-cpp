@@ -13,4 +13,4 @@ API wrapping patterns
     * adapter pattern
     * facade pattern
 
-observer pattern
+* [observer pattern](https://github.com/yijiem/design-pattern-cpp/tree/master/observer)
