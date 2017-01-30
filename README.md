@@ -4,11 +4,11 @@ This repository contains some common c++ design patterns based on "API design fo
 ## list of content
 * [pimpl idiom](https://github.com/yijiem/design-pattern-cpp/tree/master/pimpl)
 
-singleton
+- singleton
 
-factory method
+- factory method
 
-API wrapping patterns
+- API wrapping patterns
     - proxy pattern
     - adapter pattern
     - facade pattern
