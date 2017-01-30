@@ -10,5 +10,5 @@ class anytime for a process.
 Implement optimized thread-safe singleton is difficult, even using double
 check locking. If locking the whole initialization call does not introduce
 bottleneck, it would be fine to just lock it. Or you can rely on static
-initialization of global variable which is guaranteed to be run before the
-main() method.
+initialization of global variable which is guaranteed to be initialized
+before the main() method.
