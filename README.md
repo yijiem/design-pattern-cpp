@@ -17,3 +17,5 @@ This repository contains some common c++ design patterns based on "API design fo
 
 - liskov substitution principle
 
+* [copy on write](https://github.com/yijiem/design-pattern-cpp/tree/master/cow)
+
