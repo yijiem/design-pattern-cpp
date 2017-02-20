@@ -33,4 +33,5 @@ you need polymorphism then abstract class and factory method is the way
 to go. You should also think about testing and mocking.
 
 See below discussion:
+
 http://stackoverflow.com/questions/825018/pimpl-idiom-vs-pure-virtual-class-interface/2330745#2330745
