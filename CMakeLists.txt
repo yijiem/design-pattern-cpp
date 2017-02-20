@@ -12,3 +12,7 @@ add_library(model observer/model.cpp observer/subject.cpp)
 add_library(view observer/view.cpp)
 add_executable(example_observer observer/example.cpp)
 target_link_libraries(example_observer model view)
+
+add_library(cow cow/cow_string.cpp)
+add_executable(example_cow cow/example.cpp)
+target_link_libraries(example_cow cow)
