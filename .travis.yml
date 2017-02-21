@@ -8,3 +8,6 @@ script:
   - cd build
   - cmake ..
   - make
+  - ./example_pimpl
+  - ./example_observer
+  - ./example_cow
